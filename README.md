@@ -1,7 +1,8 @@
-# 👋 Hi, I'm Berlin Benilo
-
+### Hi there 👋
 **🚀 Data Scientist | 🐍 Python Developer | 🤖 AI & Agentic Systems Enthusiast**
+My name is Berlin, and I'm a trained computer scientist who interested in all Python and Data science techs.
 
+- I'm currently working on [![Thoughtclan Technologies](https://thoughtclan.com/assets/TCHeaderlogo-BWMu-l7R.png)](https://thoughtclan.com/)
 ---
 
 - 🔬 I work on machine learning, deep learning, and building intelligent backend systems
@@ -11,7 +12,7 @@
 
 ---
 
-## 🔧 Tech Stack
+#### 🔧 Tech Stack
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-005571?style=flat-square&logo=fastapi)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-orange?style=flat-square&logo=tensorflow)
@@ -22,7 +23,7 @@
 
 ---
 
-## 📫 Let's Connect
+#### 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://in.linkedin.com/in/berlin-benilo-48764611a)
 
 ---
