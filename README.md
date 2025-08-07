@@ -1,9 +1,13 @@
-### Hi there 👋
-**🚀 Data Scientist | 🐍 Python Developer | 🤖 AI & Agentic Systems Enthusiast**
-My name is Berlin, and I'm a trained computer scientist who interested in all Python and Data science techs.
+### Hi there 👋  
+**🚀 Data Scientist | 🐍 Python Developer | 🤖 AI & Agentic Systems Enthusiast**  
+My name is Berlin, and I'm a trained computer scientist who is interested in all Python and Data Science techs.
 
-- I'm currently working on [![Thoughtclan Technologies](https://thoughtclan.com/assets/TCHeaderlogo-BWMu-l7R.png)](https://thoughtclan.com/)
 ---
+
+- I'm currently working at  
+  <a href="https://thoughtclan.com/" target="_blank">
+    <img src="https://thoughtclan.com/assets/TCHeaderlogo-BWMu-l7R.png" alt="Thoughtclan Technologies" width="150"/>
+  </a>
 
 - 🔬 I work on machine learning, deep learning, and building intelligent backend systems
 - 🛠️ Skilled in Python, REST APIs, FastAPI, LangChain, and agentic frameworks
