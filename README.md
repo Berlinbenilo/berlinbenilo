@@ -17,6 +17,7 @@
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-orange?style=flat-square&logo=tensorflow)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-red?style=flat-square&logo=pytorch)
 ![LangChain](https://img.shields.io/badge/-LangChain-000000?style=flat-square)
+![LangGraph](https://img.shields.io/badge/-LangGraph-005571?style=flat-square)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
 
 ---
