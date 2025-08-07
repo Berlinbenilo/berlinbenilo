@@ -4,7 +4,7 @@ My name is Berlin, and I'm a trained computer scientist who is interested in all
 
 ---
 
-- I'm currently working at  <a href="https://thoughtclan.com/" target="_blank"><img src="https://thoughtclan.com/assets/TCHeaderlogo-BWMu-l7R.png" alt="Thoughtclan Technologies" width="50"/></a>
+- I'm currently working at  <a href="https://thoughtclan.com/" target="_blank"><img src="https://thoughtclan.com/assets/TCHeaderlogo-BWMu-l7R.png" alt="Thoughtclan Technologies" width="70"/></a>
 
 - 🔬 I work on machine learning, deep learning, and building intelligent backend systems
 - 🛠️ Skilled in Python, REST APIs, FastAPI, LangChain, and agentic frameworks
